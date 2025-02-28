@@ -10,4 +10,8 @@ public class Hello {
     public static void ola() {
         System.out.println("Olá mundo!");
     }
+
+    public static void hola() {
+        System.out.println("Hola que tal!");
+    }
 }
